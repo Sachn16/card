@@ -1,0 +1,20 @@
+body{
+    margin: 20px; 
+    font-family: Garammond;
+}
+.image-resize{
+    width: 150px;
+}
+.card{
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: #fefae0;
+    border-bottom:6px solid #dad7cd;
+    border-left: 6px solid #dad7cd;
+    color: #d4a373;
+}
+
